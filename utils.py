@@ -1,5 +1,6 @@
 from sklearn.metrics import mean_absolute_error
 import matplotlib.pyplot as plt
+import mlflow
 
 
 def data_review(df):
@@ -20,7 +21,6 @@ def plot_series(series, array_like, label='', title=''):
     plt.grid(True)
 
 
-def calculate_mae(y_true, y_pred, title):
+def calculate_mae_with_mlflow(y_true, y_pred, model_name):
     mae = mean_absolute_error(y_true, y_pred)
-    print(f'{title}:')
-    print('MAE:', mae)
+    return mae

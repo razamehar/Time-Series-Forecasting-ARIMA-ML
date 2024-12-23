@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/Hp/Desktop/BI_new/mlruns/596373653150219322/610ebb8aad734579bc9cc529b9ea4766/artifacts
+deleted_time: 1734915209033
+end_time: 1734913227659
+entry_point_name: ''
+experiment_id: '596373653150219322'
+lifecycle_stage: deleted
+run_id: 610ebb8aad734579bc9cc529b9ea4766
+run_name: Naive Forecast Run
+run_uuid: 610ebb8aad734579bc9cc529b9ea4766
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734913227630
+status: 3
+tags: []
+user_id: Hp

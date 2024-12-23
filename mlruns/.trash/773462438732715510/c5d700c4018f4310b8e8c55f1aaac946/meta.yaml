@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/Hp/Desktop/BI_new/mlruns/773462438732715510/c5d700c4018f4310b8e8c55f1aaac946/artifacts
+deleted_time: 1734915198495
+end_time: 1734914276223
+entry_point_name: ''
+experiment_id: '773462438732715510'
+lifecycle_stage: deleted
+run_id: c5d700c4018f4310b8e8c55f1aaac946
+run_name: Random Forest Regressor Run
+run_uuid: c5d700c4018f4310b8e8c55f1aaac946
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734914269290
+status: 3
+tags: []
+user_id: Hp

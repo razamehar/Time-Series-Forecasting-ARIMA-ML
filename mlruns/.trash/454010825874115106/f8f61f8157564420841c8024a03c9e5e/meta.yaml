@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/Hp/Desktop/BI_new/mlruns/454010825874115106/f8f61f8157564420841c8024a03c9e5e/artifacts
+deleted_time: 1734915206592
+end_time: 1734913392389
+entry_point_name: ''
+experiment_id: '454010825874115106'
+lifecycle_stage: deleted
+run_id: f8f61f8157564420841c8024a03c9e5e
+run_name: Moving Average Forecast Run
+run_uuid: f8f61f8157564420841c8024a03c9e5e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734913392342
+status: 3
+tags: []
+user_id: Hp

@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/Hp/Desktop/BI_new/mlruns/359174494390749100/e6ebef1c9e414c4181038e14c3570c94/artifacts
+deleted_time: 1734915201320
+end_time: 1734913494473
+entry_point_name: ''
+experiment_id: '359174494390749100'
+lifecycle_stage: deleted
+run_id: e6ebef1c9e414c4181038e14c3570c94
+run_name: ARIMA Run
+run_uuid: e6ebef1c9e414c4181038e14c3570c94
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734913494445
+status: 3
+tags: []
+user_id: Hp
