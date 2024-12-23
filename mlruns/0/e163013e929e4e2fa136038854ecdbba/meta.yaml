@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Hp/Desktop/BI_new/mlruns/0/e163013e929e4e2fa136038854ecdbba/artifacts
+end_time: 1734977046983
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e163013e929e4e2fa136038854ecdbba
+run_name: receptive-grub-999
+run_uuid: e163013e929e4e2fa136038854ecdbba
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734977036076
+status: 3
+tags: []
+user_id: Hp
